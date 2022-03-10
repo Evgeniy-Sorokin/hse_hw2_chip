@@ -70,5 +70,5 @@ ___"Почему процент выравниваний получился им
 ### Диаграммы Эйлера-Венна
 |  |  |
 | :---: | :---: |
-| [Intervene_venn (1).pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223674/Intervene_venn.1.pdf) | [Intervene_venn.pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223675/Intervene_venn.pdf) |
+| ![image](https://user-images.githubusercontent.com/71905847/157670333-f4c45f0c-40b3-4694-bd9b-e81ebaadc145.png) | ![image](https://user-images.githubusercontent.com/71905847/157670396-3d9fda51-376a-4c5d-9279-36e17c85921e.png) |
 
