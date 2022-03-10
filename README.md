@@ -1,5 +1,3 @@
-[Intervene_venn (1).pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223665/Intervene_venn.1.pdf)
-[Intervene_venn.pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223666/Intervene_venn.pdf)
 # hse_hw2_chip
 
 __Ссылка на google-collab:__
