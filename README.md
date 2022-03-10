@@ -65,4 +65,7 @@ ___"Почему процент выравниваний получился им
 
 Процент выравниваний мог получится таким вследствие того, что была взята заданная хромосома небольшого размера (как было упомянуто на семинаре).
 
-### Диаграммы Эйлера-Венна
+### Диаграммы 
+| :---: | :---: |
+| [Intervene_venn.pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223579/Intervene_venn.pdf)Эйлера-Венна | [Intervene_venn (1).pdf](https://github.com/Evgeniy-Sorokin/hse_hw2_chip/files/8223581/Intervene_venn.1.pdf) |
+
